@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently studying at faculty of Computer and Data Science<br>⚡ I’m a Data Analyst sharing about my journey and learnings in tech<br>🌱 I’m currently improving my learnings in Excel, SQL, Power Bi and python<br>
+⚡ I’m an Expert Data Analyst sharing about my journey and learnings in tech<br>🔭 I’m currently studying at faculty of Computer and Data Science<br>🌱 I’m currently improving my learnings in Excel, SQL, Power Bi and python<br>
 
 
 ## 🌐 Socials:
