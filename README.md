@@ -12,8 +12,6 @@ I’m an Expert Data Analyst sharing about my journey and learnings in tech .<br
 ![](https://streak-stats.demolab.com/?user=A-Yakout&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Yakout&theme=dark&hide_border=false&layout=compact)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=A-Yakout&theme=react-dark&hide_border=true)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A-Yakout&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
