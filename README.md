@@ -1,7 +1,6 @@
-# 💫 About Me:
-<div align="center">
-  <img src="https://github.com/A-Yakout.png" width="150" style="border-radius: 50%;" alt="A-Yakout Profile Picture">
-</div>
+# Welcome to my Github profile 
+# About Me:
+
 I’m an Expert Data Analyst sharing about my journey and learnings in tech .<br>Constantly improving my Skills in SQL, Power Bi and python .<br>Currently studying at faculty of Computer and Data Science .
 
 
@@ -15,18 +14,9 @@ I’m an Expert Data Analyst sharing about my journey and learnings in tech .<br
 ![](https://streak-stats.demolab.com/?user=A-Yakout&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Yakout&theme=dark&hide_border=false&layout=compact)
 
-# 📈 Contribution Graph:
-<div align="center">
-  <img src="https://ghchart.rshah.org/A-Yakout" alt="Github Contribution Chart" />
-</div>
 
 [![](https://komarev.com/ghpvc/?username=A-Yakout&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=A-Yakout&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=A-Yakout&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=A-Yakout&icon=0&color=0)](https://visitcount.itsvg.in)
