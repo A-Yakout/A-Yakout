@@ -1,4 +1,7 @@
 # 💫 About Me:
+<div align="center">
+  <img src="https://github.com/A-Yakout.png" width="150" style="border-radius: 50%;" alt="A-Yakout Profile Picture">
+</div>
 I’m an Expert Data Analyst sharing about my journey and learnings in tech .<br>Constantly improving my Skills in SQL, Power Bi and python .<br>Currently studying at faculty of Computer and Data Science .
 
 
