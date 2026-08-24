@@ -15,6 +15,11 @@ I’m an Expert Data Analyst sharing about my journey and learnings in tech .<br
 ![](https://streak-stats.demolab.com/?user=A-Yakout&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Yakout&theme=dark&hide_border=false&layout=compact)
 
+# 📈 Contribution Graph:
+<div align="center">
+  <img src="https://ghchart.rshah.org/A-Yakout" alt="Github Contribution Chart" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A-Yakout&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
