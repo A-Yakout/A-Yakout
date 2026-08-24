@@ -20,6 +20,8 @@ I’m an Expert Data Analyst sharing about my journey and learnings in tech .<br
   <img src="https://ghchart.rshah.org/A-Yakout" alt="Github Contribution Chart" />
 </div>
 
+[![](https://komarev.com/ghpvc/?username=A-Yakout&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A-Yakout&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
